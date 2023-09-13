@@ -1,13 +1,30 @@
 # colorful_greetings
 
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+🌈This application offers a playful and straightforward way to discover a diverse spectrum of colors.
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+![Alt text](https://i.imgur.com/clsSXTQ.png)
+ 
+# Features
+- Display the text "Hello there" in the center of the screen.
+- Tap anywhere on the screen to generate a new random background color.
+- The generated color is displayed in RGB format (e.g., RGB(255, 0, 128)).
+- Enjoy a pleasing animation as the background color smoothly transitions to the new random color.
 
 # Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+
+To get started with this app, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Yumenescence/colorful_greetings.git
+
+3. Install Dependencies:
+
+   ```bash
+   flutter pub get
+
+4. Run the App:
+
+   ```bash
+   flutter run
