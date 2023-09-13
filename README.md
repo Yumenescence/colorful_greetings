@@ -11,7 +11,6 @@
 - Enjoy a pleasing animation as the background color smoothly transitions to the new random color.
 
 # Usage
-## Getting Started
 
 To get started with this app, follow these steps:
 
